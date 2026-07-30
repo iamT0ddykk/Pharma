@@ -12,14 +12,12 @@ O **Pharma** foi criado para praticar o desenvolvimento de interfaces web, focan
   <img src="/screenshot/screenparma1.png" alt="Preview do projeto" width="800">
 </p>
 
-
 <p align="center">
   <img src="/screenshot/screenparma2.png" alt="Preview do projeto" width="800">
 </p>
 
-
 <p align="center">
-  <img src="/screenshot/screenparma3.png" alt="Preview do projeto" width="800">
+  <img src="/screenshot/screenparma3.png" alt="Preview do projeto" width="300">
 </p>
 
 ---
@@ -32,19 +30,19 @@ Este projeto foi desenvolvido para praticar a criação de **landing pages**, ap
 
 ## ✨ Funcionalidades
 
-* 💊 Landing page para uma farmácia
-* 📱 Layout responsivo
-* 🎨 Interface moderna e organizada
-* ⚡ Navegação simples e intuitiva
-* 🚫 Desenvolvido sem frameworks
+- 💊 Landing page para uma farmácia
+- 📱 Layout responsivo
+- 🎨 Interface moderna e organizada
+- ⚡ Navegação simples e intuitiva
+- 🚫 Desenvolvido sem frameworks
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla JS)
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
 ---
 
@@ -81,12 +79,12 @@ cd pharma
 
 ## 📚 O que foi praticado
 
-* Estruturação de landing pages
-* HTML semântico
-* Estilização com CSS
-* Responsividade
-* Manipulação do DOM com JavaScript
-* Organização de código em JavaScript puro
+- Estruturação de landing pages
+- HTML semântico
+- Estilização com CSS
+- Responsividade
+- Manipulação do DOM com JavaScript
+- Organização de código em JavaScript puro
 
 ---
 
